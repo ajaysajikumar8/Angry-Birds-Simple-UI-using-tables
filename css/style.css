@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/461236.jpg");
+    background-size: cover;
+}
+
+table,
+th,
+td {
+    padding: 20px;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+th:hover {
+    background-image: url("../images/Red.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
